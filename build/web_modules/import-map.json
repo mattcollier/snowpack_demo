@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@digitalbazaar/http-client": "./@digitalbazaar/http-client.js"
+  }
+}
